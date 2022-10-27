@@ -6,7 +6,25 @@
 <img width="691" alt="스크린샷 2022-10-27 오후 5 04 18" src="https://user-images.githubusercontent.com/102234250/198227154-cf3b767a-5ffc-450c-bf26-a58fa849a92b.png">
 
 ## 딥러닝 모델링 사용
+- 데이터 셋 소개
+<캐글 데이터 셋>
+https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert
+
+
+- 데이터 전처리 과정
+    - ImageDataGenerator
+    
+- 데이터 모델 소개
+    - keras.Sequential()
+        - 순차 모델로 쉽게 구현
+    - conv2D
+    - Maxpooling2D
+    - 활성화 함수로 relu 함수 사용
+    - 마지막층에는 softmax 사용
+    
+- 모델 검증 및 성능 확인
 
 ## 한계점
+- 사전학습모델 미사용 -> 수정 예정 ! 
 
 ## 발표 
