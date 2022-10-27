@@ -26,5 +26,12 @@ https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert
 
 ## 한계점
 - 사전학습모델 미사용 -> 수정 예정 ! 
+- 데이터 양이 많아 에폭시 마다 돌아가는 시간이 너무 길었음
+- 현실적인 데이터와 다른 잎 사진에서도 예측을 제대로 하는지 확인하지 못함
 
-## 발표 
+
+
+## 발표 (링크)
+https://youtu.be/7bbPi9SEFdA
+
+* 참고 노션 링크: https://www.notion.so/d4a3f0f0f77d46acb64185812178b6da
